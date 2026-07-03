@@ -247,3 +247,7 @@ body{font-family:var(--font-body);color:var(--charcoal);background:var(--off-whi
 .footer-logo-text .logo-chestnut{font-size:24px}
 .footer-logo-text .logo-roofing{font-size:24px}
 .footer-logo-text .logo-sep{height:24px}
+
+/* APEX ROOFING IMAGE LOGO */
+.nav-logo-img{height:40px;width:auto;max-width:150px;object-fit:contain;display:block;background:#fff;border-radius:6px;padding:3px 8px}
+.footer-logo-img{height:44px;width:auto;max-width:160px;object-fit:contain;display:block;margin-bottom:18px;background:#fff;border-radius:8px;padding:4px 10px}
